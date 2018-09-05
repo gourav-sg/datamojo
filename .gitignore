@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+Data
+Data1
+data
+.DS_Store
+*html
+.ipynb_checkpoints
+metastore_db
+*jar
+*derby.log
+*class
